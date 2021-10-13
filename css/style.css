@@ -165,7 +165,7 @@ header #menu-bar{
   flex-wrap: wrap;
   gap: 1.5rem;
   align-items: center;
-  min-height: 100vh;
+  min-height: 1000vh;
   background-image: url("../img/home-bg.jpg") ;
   background-repeat: no-repeat;
   background-size: cover;
