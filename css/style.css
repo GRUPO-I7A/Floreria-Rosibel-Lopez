@@ -163,7 +163,7 @@ header #menu-bar{
 .home{
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 1.5rem;
   align-items: center;
   min-height: 100vh;
   background-image: url("../img/home-bg.jpg") ;
