@@ -176,10 +176,10 @@ header #menu-bar{
   padding-top: 6.5rem;
 }
 .home .image {
-  flex: 1 1 40rem;
+  flex: 1 1 20rem;
 }
 .home .image img {
-  width: 50%;
+  width: 100%;
   padding: 1rem;
   animation: float 3s linear infinite;
   -webkit-animation: float 3s linear infinite;
