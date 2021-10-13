@@ -165,7 +165,7 @@ header #menu-bar{
   flex-wrap: wrap;
   gap: 1.5rem;
   align-items: center;
-  min-height: 50vh;
+  min-height: 100vh;
   background-image: url("../img/home-bg.jpg") ;
   background-repeat: no-repeat;
   background-size: cover;
@@ -179,7 +179,7 @@ header #menu-bar{
   flex: 1 1 40rem;
 }
 .home .image img {
-  width: 100%;
+  width: 1000%;
   padding: 1rem;
   animation: float 3s linear infinite;
   -webkit-animation: float 3s linear infinite;
