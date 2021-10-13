@@ -179,7 +179,7 @@ header #menu-bar{
   flex: 1 1 40rem;
 }
 .home .image img {
-  width: 1000%;
+  width: 50%;
   padding: 1rem;
   animation: float 3s linear infinite;
   -webkit-animation: float 3s linear infinite;
